@@ -39,7 +39,7 @@ To run this simulation on your local machine, follow these steps.
 ### Installation & Execution
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MG-530/RPS-Battle-Royale.git](https://github.com/MG-530/RPS-Battle-Royale.git)
+    git clone https://github.com/MG-530/RPS-Battle-Royale.git
     cd RPS-Battle-Royale
     ```
 
