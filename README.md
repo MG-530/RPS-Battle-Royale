@@ -11,10 +11,10 @@ This project is a fully interactive simulation where you can set the parameters 
 
 
 **The Settings Menu**
-![Image](https://github.com/user-attachments/assets/2fe87dec-1240-4376-86e3-bced211a8ad4)
+![Image](https://github.com/user-attachments/assets/c3748717-829c-45c4-9fcb-4b43087764c6)
 
 **The Simulation in Action!**
-![Image](https://github.com/user-attachments/assets/331a5b97-1260-46de-b2fc-13074b540ae6)
+![Image](https://github.com/user-attachments/assets/8adcab49-b6c3-4deb-9742-c371c22be930)
 ---
 
 ## ✨ Features
